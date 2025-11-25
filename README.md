@@ -7,12 +7,12 @@
 
 > **"Traditional credit models rely on static snapshots. This project builds a dynamic risk engine."**
 
-## 📖 The Context
+## The Context
 In the lending world, the difference between a profitable portfolio and a massive loss often lies in the gray areas. A borrower might look great on paper (high income) but actually be drowning in monthly obligations. Traditional "black box" models often miss these nuances.
 
 For this project, I moved beyond standard hyperparameter tuning to build a **domain-driven machine learning pipeline**. My goal was to engineer a model that mimics the intuition of a human underwriter—assessing "true affordability" and "payment strain"—but operates at the scale of an algorithm.
 
-## 🛠️ The Strategy
+## The Strategy
 Instead of throwing raw data at a model, I focused on three strategic pillars:
 
 ### 1. Domain-Driven Feature Engineering
@@ -31,7 +31,7 @@ A model is useless if it's unstable.
 
 ---
 
-## 💻 The Logic (Code Highlight)
+##  The Logic (Code Highlight)
 The most impactful part of this project was the "translation layer"—turning financial concepts into vectorizable features.
 
 ```python
