@@ -87,7 +87,7 @@ By prioritizing feature engineering over model complexity, this pipeline achieve
 
 1.  Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/loan-risk-prediction.git
+    git clone https://github.com/ernselito/loan-risk-prediction.git
     ```
 2.  Install dependencies:
     ```bash
