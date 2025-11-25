@@ -1,5 +1,5 @@
 
-# Modernizing Credit Risk: Advanced Loan Repayment Prediction
+# Beyond the FICO Score: A Feature Engineering Approach to Modern Credit RiskPermalink
 
  **"Traditional credit models rely on static snapshots. This project builds a dynamic risk engine."**
 
